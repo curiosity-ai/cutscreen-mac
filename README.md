@@ -1,1 +1,1 @@
-# snaptext-mac
+CutScreen for macOS
